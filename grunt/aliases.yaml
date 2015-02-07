@@ -1,0 +1,5 @@
+default:
+  - 'clean:dev'
+  - 'sass:dev'
+  - 'stencil:dev'
+  - 'inlinecss:dev'
